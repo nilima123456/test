@@ -1,2 +1,2 @@
 # test
-Testing Github functionality
+<b>Testing Github functionality</b>
